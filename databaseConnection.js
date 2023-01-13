@@ -16,5 +16,5 @@ function DbConnection() {
   });
 }
 
-// CRUD => Create, Read, Update & Delete
+
 module.exports = DbConnection;
